@@ -12,6 +12,16 @@ Requirements
 ### Server
  * Mahara 1.6+
 
+How to use
+----------
+
+ - Install mahara 1.6+ to {mahara_home}
+ - Clone elFinder into {elfinder_home}
+ - Clone this connector into {mahara_connector}
+ - Run the command:
+
+<code>{mahara_connector}/install.sh {mahara_home} {elfinder_home}</code>
+
 Authors
 -------
 
